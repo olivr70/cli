@@ -24,3 +24,6 @@ html/*.png
 
 
 .nyc_output
+
+# some VS Code files
+/.vscode/

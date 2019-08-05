@@ -1,0 +1,11 @@
+{
+  "javascript.validate.enable": false,
+  "javascript.format.enable": false,
+  "javascript.format.insertSpaceAfterCommaDelimiter": false,
+  "standard.enable": true,
+  "standard.run": "onSave",
+  "standard.validate": [
+    "javascript"
+  ],
+  "eslint.enable": false
+}
